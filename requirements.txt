@@ -1,3 +1,5 @@
 clipboard
 pynput
 pywin32
+PyInstaller
+pyarmor
