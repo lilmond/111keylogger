@@ -1,0 +1,4 @@
+Command         Description
+help            Show this help message.
+clients         Show the list of connected clients.
+logs            Show log files of a client.
